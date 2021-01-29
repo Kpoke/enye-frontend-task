@@ -1,0 +1,21 @@
+.pageContainer {
+    width: 30%;
+    display: flex;
+    margin: 10px auto;
+    justify-content: center;
+}
+
+.button {
+    background-color: #1b94b3;
+    border-radius: 0.15em;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.1);
+    cursor: pointer;
+    margin: 7px;
+    padding: 10px 15px;
+
+}
+
+.active {
+    background-color: #4D7EA8;
+    color: white;
+}

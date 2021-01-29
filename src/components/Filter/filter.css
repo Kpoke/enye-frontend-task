@@ -1,0 +1,12 @@
+.FilterContainer {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: left;
+    display: flex;
+}
+
+.Select__Option {
+    margin: 0 20px
+}
