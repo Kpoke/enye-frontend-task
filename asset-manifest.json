@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/enye-frontend-task/static/css/main.3185d349.chunk.css",
+    "main.js": "/enye-frontend-task/static/js/main.ed1fad1a.chunk.js",
+    "main.js.map": "/enye-frontend-task/static/js/main.ed1fad1a.chunk.js.map",
+    "runtime-main.js": "/enye-frontend-task/static/js/runtime-main.b031ce66.js",
+    "runtime-main.js.map": "/enye-frontend-task/static/js/runtime-main.b031ce66.js.map",
+    "static/js/2.de33ba92.chunk.js": "/enye-frontend-task/static/js/2.de33ba92.chunk.js",
+    "static/js/2.de33ba92.chunk.js.map": "/enye-frontend-task/static/js/2.de33ba92.chunk.js.map",
+    "index.html": "/enye-frontend-task/index.html",
+    "static/css/main.3185d349.chunk.css.map": "/enye-frontend-task/static/css/main.3185d349.chunk.css.map",
+    "static/js/2.de33ba92.chunk.js.LICENSE.txt": "/enye-frontend-task/static/js/2.de33ba92.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b031ce66.js",
+    "static/js/2.de33ba92.chunk.js",
+    "static/css/main.3185d349.chunk.css",
+    "static/js/main.ed1fad1a.chunk.js"
+  ]
+}
